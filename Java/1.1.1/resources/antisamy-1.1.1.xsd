@@ -12,8 +12,7 @@
 			<xsd:element name="common-attributes" type="AttributeList" maxOccurs="1" minOccurs="1"/>
 			<xsd:element name="global-tag-attributes" type="AttributeList" maxOccurs="1" minOccurs="1"/>
 			<xsd:element name="tag-rules" type="TagRules" minOccurs="1" maxOccurs="1"/>
-			<xsd:element name="css-rules" type="CSSRules" minOccurs="1" maxOccurs="1"/>
-
+			<xsd:element name="css-rules" type="CSSRules" minOccurs="1" maxOccurs="1"/>
 		</xsd:sequence>
 
 		</xsd:complexType>
